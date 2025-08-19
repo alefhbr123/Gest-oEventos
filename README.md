@@ -1,7 +1,6 @@
 <div align="center">
 <img src="Logo_KiEventos.png" alt="Logo - KiEventos" width="200" height="200">
 </div>
-<h1 align="center"> KiEventos </h1>
 
 ## Objetivo:
 Sistema para criação e gerenciamento de eventos (presenciais ou online), com funcionalidades de inscrição, networking entre participantes, recomendações personalizadas de palestras e análise de engajamento. Também permitir a avaliação dos eventos pelos participantes, coletas de retorno dos participantes, canal de comunicação com os envolvidos e integração com redes sociais. 
