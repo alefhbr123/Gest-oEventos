@@ -12,7 +12,7 @@ Sistema para criação e gerenciamento de eventos (presenciais ou online), com f
 - Pedro Augusto da Silva Morais - Júnior - pedroaugustomorais@alunos.utfpr.edu.br 
 - Fábio Massashi Suzuki - Júnior - suzukif.2023@alunos.utfpr.edu.br 
 - Vitor Barbosa Hilário - Pleno - vitorhilario@alunos.utfpr.edu.br
-- Gabriel Batistela da Silva
+- Gabriel Batistela da Silva - gabrielbatistela@alunos.utfpr.edu.br
 
 ## ***Requisitos funcionais***
 
